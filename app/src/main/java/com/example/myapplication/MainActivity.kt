@@ -56,4 +56,6 @@ fun main() {
         print(s[i - 1]) //printing the character at index i-1
         i-- //decreasing the length of the string
     }
+
+
 }
